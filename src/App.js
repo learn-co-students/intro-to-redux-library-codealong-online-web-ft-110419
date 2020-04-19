@@ -13,7 +13,7 @@ class App extends Component {
 				<button onClick={this.handleOnClick}>Click</button>
 				<p>{this.props.items.length}</p>
 			</div>
-		);
+		); 
 	}
 }
 
